@@ -1,4 +1,4 @@
-# Python-Ind-Learning-Project_01
+# Python-Ind-Learning-Project
 
 Hi. My name is Nguyen Dai Truong Thanh. I have started learning Python for Data Science by myself recently. 
 
