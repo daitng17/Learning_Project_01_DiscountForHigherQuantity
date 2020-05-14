@@ -1,5 +1,5 @@
 # Learning_Project_01_DiscountForHigherQuantity
-This is my first repository after 5 days of learning Python.
+# This is my first repository after a week of learning Python.
 
 print("-Your shopping cart-")
 unit_price = 19.99
