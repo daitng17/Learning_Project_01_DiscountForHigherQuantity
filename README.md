@@ -6,4 +6,3 @@ Ind Learning Project is my personal coding challenge. I will keep sharing my cod
 
 Also this repo is a means to share my learning progress with my Professors and with my friends.
 
--Progress- This is my first repository after 5 days of learning Python.
