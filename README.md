@@ -1,3 +1,3 @@
-# Python-Ind-Learning-Project
+# Python 3 Programming Projects
 
 
