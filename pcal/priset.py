@@ -1,6 +1,3 @@
-# Program by Nick NguyenDaiTruongThanh
-# Intern Parts Pricing, Finance & Controlling, MFTBC
-
 class PartsPricing():
     '''This class consists of functions used to calculate list price (lp),
     discount percent (d), net price factor (npf), and dealer price (dp).'''
